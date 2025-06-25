@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Megan
 
-<!--
-**BookHaven12/BookHaven12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in healthcare and a passion for transforming data into actionable insights. I specialize in SQL and Tableau, and I recently completed the ASU Data Analytics Bootcamp—a rigorous, hands-on program focused on real-world analytics projects using SQL, Tableau, Python, and data visualization techniques.
 
-Here are some ideas to get you started:
+## 🔧 Core Skills
+- **SQL** (joins, subqueries, CTEs, window functions)
+- **Tableau** (dashboards, storytelling, KPIs)
+- **Excel** (pivot tables, VLOOKUP, data cleaning)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data Cleaning & Preparation**
+- **Data Visualization**
+- **Exploratory Data Analysis (EDA)**
+- **Relational Databases** (PostgreSQL, MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect
+- [LinkedIn – Megan Iyer](https://www.linkedin.com/in/megan-iyer/)
