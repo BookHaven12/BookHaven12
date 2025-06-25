@@ -3,9 +3,9 @@
 I'm a data analyst with a background in healthcare and a passion for transforming data into actionable insights. I specialize in SQL and Tableau, and I recently completed the ASU Data Analytics Bootcamp—a rigorous, hands-on program focused on real-world analytics projects using SQL, Tableau, Python, and data visualization techniques.
 
 ## 🔧 Core Skills
-- **SQL** (joins, subqueries, CTEs, window functions)
-- **Tableau** (dashboards, storytelling, KPIs)
-- **Excel** (pivot tables, VLOOKUP, data cleaning)
+- **SQL** 
+- **Tableau**
+- **Excel** 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Data Cleaning & Preparation**
 - **Data Visualization**
